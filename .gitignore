@@ -1,0 +1,9 @@
+target/
+out/
+data/
+logs/*.log
+logs/*.txt
+logs/*.pid
+bench/testdata/
+*.class
+.DS_Store
